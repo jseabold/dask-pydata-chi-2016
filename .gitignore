@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+data/*.csv
+data/accounts*
+data/nfs/NFS*.csv
+*.hdf5
